@@ -1,0 +1,9 @@
+Elige alguna de estas opciones:
+
+1 > Menu 🍔
+2 > Hacer Reservas 🕵🏻‍♀️
+3 > Consultas 🕵🏻‍♀️
+
+0 > Salir ❌
+
+Ingresa el numero:
